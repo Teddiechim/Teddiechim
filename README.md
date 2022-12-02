@@ -5,6 +5,8 @@
 <h3 align="center">
   
 ![](https://user-images.githubusercontent.com/107264908/201364411-571510b3-31a7-4d94-857e-4e3d904a7c0a.gif)
+  
+  </div>
 
 ## :star2: About me
   
